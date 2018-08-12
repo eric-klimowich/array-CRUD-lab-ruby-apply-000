@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  
+  fantastic_four = ["Reed Richards", "Ben Grimm", "Susan Storm", "Johnny Storm"]
 end
 
 def add_element_to_end_of_array(array, element)
